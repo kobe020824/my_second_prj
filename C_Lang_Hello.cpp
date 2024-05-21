@@ -3,7 +3,7 @@
 
 #include <iostream>
 
-int main()
+//int main()
 {
     int buf[10];
     buf[1000] = 0; // <- ERROR
